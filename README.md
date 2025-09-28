@@ -1,4 +1,4 @@
-# Port-Scanner 🔎
+# Port-Scanner
 
 A simple, concurrent TCP port scanner written in Python for educational use.  
 
